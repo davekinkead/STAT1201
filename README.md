@@ -47,8 +47,6 @@ There are a number of ways that values claims in science can be ethically proble
 
 Justifiable or not, we place greater burdens of proof when the research subjects are human.  For animal subjects, our typical concern is whether firstly the harm was minimised, and secondly the remaining harm is justified by the potential benefits of the research.  Human subjects have additional requirements such as informed consent.
 
-
-
 Harm 
 
 - use of live subjects
@@ -63,6 +61,7 @@ Method
 
 - clearance
     - did the researchers get ethical clearance?
+    - was informed consent obtained?
 - design
     - was the method appropriate?
     - was the sampling appropriate?
@@ -72,39 +71,43 @@ Method
 
 Motivations
 
-- funding
+- follow the funding money.
     - was the source of funding declared?
+    - did the funding source have vested interests?
 - conflict of interests
     - did the authors stand to gain abnormal benefits?
+    - was their any ideological motivation?
         
 ## Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children
 
 For the rest of the workshop, we are going to critically examine a scientific paper, identify it's value claims, and highlight any areas of ethical concern.  The paper, [Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children][lancet] or [pdf][lancetpdf], is a rather infamous case of how not to do medical research.
 
-Read the paper and firstly, identify any value claims made in the paper, before secondly, assess the ethical implications of those claims.
+Read the paper and firstly, identify any value claims made in the paper, before secondly, assessing the ethical implications of those claims.
 
 Harm
 
-- child subjects
-- invasive, often painful procedures
-- risk from sedation and procedures (lumbar punctures, pethidine)
-- how was this harm justified?
-- was informed consent given?
-- was the research used for nefarious purposes?
+- Interventional research on child subjects
+- Invasive, often painful procedures
+- Risk from sedation and procedures (lumbar punctures, pethidine)
+- Invasive procedures not fully justified.
+- Informed consent difficult due to parental conflict of interest (parents stood to gain financially from the findings).
 
 Methods
 
-- was ethical board clearance given?
-- was the experimental design appropriate?
-- was the sampling appropriate?
-- what limits did the sample place on inferences?
-- where the conclusions appropriate to the data?
+- Ethical board clearance and informed consent claimed. Clearance later found to be falsified.
+- Sampling appropriate to investigate research (later found to be falsified).
+- Weak conclusions appropriate to findings.
+- Important data omitted or included only in post script.
+- Important data based on parental recollection from many years prior.
+- Data trimmed to suit claims by selecting including only a subset of subjects.
+- Onset data conflicts with hypothesis.
 
 Motivations
 
-- was funding disclosed?
-- was a conflict of interest disclosed?
-- did the authors stand to gain personally?
+- Official funding disclosed.
+- Funding from the law firm suing MMR makes not disclosed.
+- Conflicts of interest not disclosed.  Wakefield held a patent on a rival vaccine.
+- Authors and parents had vested financial interest in a positive result. 
 
 At first glance, this paper doesn't appear that bad.  Consent and ethical clearance were obtained, and the conclusions were relatively weak 'we did not prove an association' and 'evidence is inadequate to show a change in incidence' (p641).
 
