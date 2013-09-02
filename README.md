@@ -21,7 +21,7 @@ The purpose of this workshop is to help you identify value claims in scientific 
 
 Very simply, science as a process (is supposed to) tells us what (probably) is out there in the world of actual things.  But science as it is practiced is full of claims about what we should do.  Eat vegetables, drive slower, pollute less, take this pill and call me in the morning.
 
-But we need something more than just an _is_ (ie. diarrhea related deaths fell 59% after rotavirus vaccinations [^rotavirus]) to get to an _ought_ (ie. rotavirus vaccinations ought be mandatory).  That something requires a value claim.  David Hume put this _fact - value distinction_ best 250 years ago:
+But why should we eat our vegetables and drive slower?  We need something more than just an _is_ (ie. diarrhea related deaths fell 59% after rotavirus vaccinations [^rotavirus]) to get to an _ought_ (ie. rotavirus vaccinations ought be mandatory).  That something requires a value claim.  David Hume put this _fact - value distinction_ best 250 years ago:
 
 >  In every system of morality, which I have hitherto met with, I have always remarked, that the author proceeds for some time in the ordinary way of reasoning, and establishes the being of a God, or makes observations concerning human affairs; when of a sudden I am surprized to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not. This change is imperceptible; but is, however, of the last consequence. For as this ought, or ought not, expresses some new relation or affirmation, it is necessary that it should be observed and explained; and at the same time that a reason should be given, for what seems altogether inconceivable, how this new relation can be a deduction from others, which are entirely different from it.
 >
@@ -29,7 +29,7 @@ But we need something more than just an _is_ (ie. diarrhea related deaths fell 5
 
 Now like everything in philosophy, nothing is quite this clear cut.  Some [moral philosophers][tannsjo] think you can derive an _ought_ from an _is_.  Some [philosophers of science][feyerabend] would deny the description above is what 'science' really is.  But as a beachhead into the murky world of value in science, this dichotomy will serve us well for now.
 
-If the fact - value distinction is still a little fuzzy, consider this.  Most scientists and health professionals would most likely find the following argument unproblematic:
+Another way to look at the fact-value distinction is in argument form.  Most scientists and health professionals would most likely find the following argument unproblematic:
 
 - Smoking increases the likelihood of acquiring lung cancer (and a range of other diseases).
 - Therefore, you ought not smoke.
@@ -38,7 +38,7 @@ Unfortunately, this argument is fallacious. It is invalid because the conclusion
 
 - You ought not increase the likelihood of acquiring lung cancer (and a range of other diseases)
 
-Science might be able to 
+Science might be very capable of telling us exactly how smoking increases cancer rates, but as a descriptive process, it can't offer any help as to why we shouldn't smoke without explicitly or implicitly importing value claims.
 
 
 ## Ethics in Science
@@ -46,6 +46,13 @@ Science might be able to
 There are a number of ways that values claims in science can be ethically problematic and the most obvious way concerns _harm_.  As a minimum, harm can be any pain felt by sentient creatures, but it extends much further than that.  Harm can occur either to the subjects of research (physical and mental anguish from poking and prodding, exposure to risk, long term effects etc), or be a result of the research (when the results permit subsequent harm as in weapons research).
 
 Justifiable or not, we place greater burdens of proof when the research subjects are human.  For animal subjects, our typical concern is whether firstly the harm was minimised, and secondly the remaining harm is justified by the potential benefits of the research.  Human subjects have additional requirements such as informed consent.
+
+But value can also seep into science via procedure.  When ever we intervene in some situation as a researcher, we are making an implicit value claim that our intervention is justified.  The sampling method, experimental design, and linkage between evidence and conclusions all involve the section of some things over others.  They are all value decisions.
+
+Now one objection to this is that no, this is just good science.  But all this does is raise the question of what _is_ good science and why we _should_ practice it.  It seems very hard to get an ought from an is.
+
+A final area where values in science might create ethical problems is the motivation of researchers and their funders.  Money is obviously a strong motivator, but so too is ideology.  We can identify and how they are mitigated by explicit references to funding sources, conflicts of interest, and awareness of issues that might be divisive in the broader community.
+
 
 Harm 
 
@@ -82,7 +89,7 @@ Motivations
 
 For the rest of the workshop, we are going to critically examine a scientific paper, identify it's value claims, and highlight any areas of ethical concern.  The paper, [Ileal-lymphoid-nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children][lancet] or [pdf][lancetpdf], is a rather infamous case of how not to do medical research.
 
-Read the paper and firstly, identify any value claims made in the paper, before secondly, assessing the ethical implications of those claims.
+Read the paper and firstly, identify any value claims made in the paper, before secondly, assessing the ethical implications of those claims.  Remember that not all value claims are ethical issues, but all ethical issues involve value claims.
 
 Harm
 
